@@ -7,7 +7,8 @@ title: Projects
   <header class="post-header">
     <h1>Projects</h1>
   </header>
-  I am quite active on <a href = "{{ site.data.params.github_url }}">Github</a> which has many of my open source projects. To see a complete list of my projects, see my <a href="{{ site.data.params.linkedin_url }}">Linkedin</a> profile. Below, is a list of some of my selected projects.
+  You can check my <a href = "{{ site.data.params.github_url }}">Github</a> and <a href="{{ site.data.params.linkedin_url }}">Linkedin</a> profile for my open source projects.
+  <br>Below, is a list of some of my selected projects.
 
   <div class="projects">
     {% for project in site.data.projects %}
@@ -19,7 +20,7 @@ title: Projects
               {% if project.github.user %}
                 <a class="github-button" href="https://github.com/{{ project.github.user }}/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star {{ project.github.user }}/{{ project.github.repo }} on GitHub">Star</a>
               {% else %}
-                <a class="github-button" href="https://github.com/dhavalkapil/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star dhavalkapil/{{ project.github.repo }} on GitHub">Star</a>
+                <a class="github-button" href="https://github.com/r00tb3/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star r00tb3/{{ project.github.repo }} on GitHub">Star</a>
               {% endif %}
             {% endif %}
           </span>
