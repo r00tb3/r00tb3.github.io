@@ -1,7 +1,7 @@
 - name: "Railroad Track Maintenance Device"
   github:
     repo: ""
-  url: ""
+  url: "https://doi.org/10.15866/irecap.v7i6.13605"
   source_url: "https://doi.org/10.15866/irecap.v7i6.13605"
   description:
     - Developed an embedded system to detect and report the cracks present on a railway track using three different sensors with arduino board.
@@ -12,7 +12,7 @@
 - name: "A Survey on Evolution in Information Security"
   github:
     repo: ""
-  url: ""
+  url: "https://doi.org/10.15866/irecap.v7i6.13347"
   source_url: "https://doi.org/10.15866/irecap.v7i6.13347"
   description:
     - Surveyed the different domains in tech where security has became an important concern.
