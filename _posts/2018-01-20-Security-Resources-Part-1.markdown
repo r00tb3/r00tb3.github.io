@@ -5,10 +5,11 @@ title: "Security Resources Part-1"
 date:   2018-01-20 19:10:55 +0530
 author: "r00tb3"
 excerpt: "Security Playlists to learn from Part-1!!"
+category: post
 
 ---
 
-![Image](https://github.com/r00tb3/SECURITY-RESOURCES/blob/master/images/cat.jpg)
+![Image](https://github.com/r00tb3/r00tb3.github.io/blob/master/images/cat.jpg)
 
 ***LIKE ME THERE ARE PLENTY OF FOLKS WHO ARE LOOKING FOR SECURITY RESOURCES AND WE KEEP ON SEARCHING FOR TORRENTS, DRIVE LINKS AND MEGA LINKS WHICH CONSUMES A LOT OF TIME. SO I DECIDED TO CURATE THE LIST OF RESOURCES FREELY AVAILABLE ON THE WEB TO HELP OTHERS GET STARTED IN THE FIELD OF INFOSEC.*** 
 

@@ -5,7 +5,7 @@ title: "Welcome to r00tb3's blog.."
 date:   2018-01-01 13:19:54 +0530
 author: "r00tb3"
 excerpt: "Few thoughts about this blog."
-
+category: post
 ---
 
 > ## Few words!!
