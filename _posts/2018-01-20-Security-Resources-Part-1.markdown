@@ -5,7 +5,7 @@ title: "Security Resources Part-1"
 date:   2018-01-20 19:10:55 +0530
 author: "r00tb3"
 excerpt: "Security Playlists to learn from Part-1!!"
-category: post
+category: security
 
 ---
 
