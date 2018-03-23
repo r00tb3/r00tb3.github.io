@@ -9,7 +9,7 @@ category: security
 
 ---
 
-![cat.jpg](https://github.com/r00tb3/r00tb3.github.io/blob/master/assets/images/security-resources-part-1/cat.jpg?raw=true)
+![cat.jpg](/assets/images/cat.jpg)
 
 **LIKE ME THERE ARE PLENTY OF FOLKS WHO ARE LOOKING FOR SECURITY RESOURCES AND WE KEEP ON SEARCHING FOR TORRENTS, DRIVE LINKS AND MEGA LINKS WHICH CONSUMES A LOT OF TIME. SO I DECIDED TO CURATE THE LIST OF RESOURCES FREELY AVAILABLE ON THE WEB TO HELP OTHERS GET STARTED IN THE FIELD OF INFOSEC.** 
 
