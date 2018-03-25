@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Security Resources Part-1"
+title: "Security Resources Part - 1"
 date:   2018-01-20 19:10:55 +0530
 author: "r00tb3"
 excerpt: "Security Playlists to learn from Part-1!!"
@@ -425,7 +425,7 @@ category: security
           * [monkeysm8/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/monkeysm8/LinEnum)
           * [Packet Storm](https://packetstormsecurity.com/)
           * [VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY](https://www.vulnerability-lab.com/show.php?user=Sultan%20Albalawi)
-          * [| Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+          * [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
           * [VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY](https://www.vulnerability-lab.com/index.php)
           * [The “SYSTEM” challenge – Decoder's Blog](https://decoder.cloud/2017/02/21/the-system-challenge/)
           * [OSCP Game Over !!!!](http://koolacac.blogspot.in/2017/01/oscp-game-over.html)
@@ -1126,17 +1126,12 @@ category: security
      
              
     * #### *Baseband*
-      * [Hexagon SDK - Get Started - Qualcomm Developer Network](https://developer.qualcomm.com/software/hexagon-dsp-sdk/getting-started)
       * [Reverse engineering a Qualcomm baseband processor [pdf] : ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/comments/2qufd7/reverse_engineering_a_qualcomm_baseband_processor/)
       * [Quarkslab's blog - IDA](https://blog.quarkslab.com/tag/ida.html)
       * [Comsecuris Security Research & Consulting Blog](https://comsecuris.com/blog/tags/baseband/)
-       
-      * [Search · msm8226](https://github.com/search?o=desc&q=msm8226&s=stars&type=Repositories&utf8=%E2%9C%93)
-      * [rpw/hexagon: IDA processor module for the hexagon (QDSP6) processor](https://github.com/rpw/hexagon#hexagon)
-      * [Search · baseband](https://github.com/search?q=baseband&type=Repositories&utf8=%E2%9C%93)
       * [Smartphones use a second CPU and second operating system in their baseband modems AndroidAuthority](https://www.androidauthority.com/smartphones-have-a-second-os-317800/)
-       
       * [firmware · ǝɹ - Free Online Firmware Unpacker, Scanner, Analyser - Firmware Genomics/Genome Project - Firmware Vulnerability and Backdoor Discovery - Firmware Mounting, Modification, Loading and Emulation - Embedded and Internet-of-Things Security](http://www.firmware.re/)
+      * [Search · baseband](https://github.com/search?q=baseband&type=Repositories&utf8=%E2%9C%93)
   
   
     * #### *NFC & RFID*
