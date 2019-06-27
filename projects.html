@@ -8,14 +8,15 @@ title: Projects
     <h1>Projects</h1>
   </header>
   You can check <a href = "{{ site.data.params.github_url }}">Github</a> and <a href="{{ site.data.params.linkedin_url }}">Linkedin</a> profile for my open source projects.
-  <br>Below, is a list of some of my projects.
+  <br>Below, is a list of my projects and research.
 
   <div class="projects">
     {% for project in site.data.projects %}
       <div class="project">
         <div class="project-name">
           <a href = "{{ project.url }}">{{ project.name }}</a>
-          <span class="star-button">
+	<!--          
+	<span class="star-button">
             {% if project.github %}
               {% if project.github.user %}
                 <a class="github-button" href="https://github.com/{{ project.github.user }}/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star {{ project.github.user }}/{{ project.github.repo }} on GitHub">Star</a>
@@ -24,6 +25,7 @@ title: Projects
               {% endif %}
             {% endif %}
           </span>
+	-->
         </div>
         <ul class="project-description">
           {% for line in project.description %}
@@ -36,10 +38,11 @@ title: Projects
           {% else %}
             <span class="project-padding">.</span>
           {% endif %}
-        </span>
+       <!-- </span>
         {% if project.source_url %}
-          <span class="project-source"><a href = "{{ project.source_url }}">View Source</a></span>
+          <p><span class="project-source"><a href = "{{ project.source_url }}">View Source</a></span></p>
         {% endif %}
+	-->
       </div>
     {% endfor %}
   </div>
