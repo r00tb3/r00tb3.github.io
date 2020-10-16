@@ -20,7 +20,7 @@
   
 - name: "LAN-WLAN-GSM-UMTS based Router OS"
   github:
-   repo:  
+   repo: ""
   url: "https://github.com/r00tb3/Multiple-Interface-based-Router-OS"
   source_url: "https://github.com/r00tb3/Multiple-Interface-based-Router-OS"
   description:
@@ -29,7 +29,7 @@
       - Using the auto-switching feature the router swtches between different interfaces to maintain connectivity.
   tech: "OpenWRT, Linux Kernel, Network, Wireless, GSM, UMTS"
   
- - name: "Streaming media over the router using OpenWRT"
+- name: "Streaming media over the router using OpenWRT"
   github:
    repo: "" 
   url:
