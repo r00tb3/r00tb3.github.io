@@ -7,6 +7,37 @@
     - Examined the protocols and technologies used at each layer of the IoT devices with reference to the OSI model.
     - Studied its internals, threats it possesses and the mitigation techniques for the same.. 
   tech: "Research, IoT, Cyber Security, IoT Security"
+  
+- name: "P2P-Data sharing using OpenWRT"
+  github:
+   repo: "" 
+  url: "https://github.com/r00tb3/P2P-Downloader-Openwrt"
+  source_url: "https://github.com/r00tb3/P2P-Downloader-Openwrt"
+  description:
+     - Developed an Peer-to-peer router OS based on OpenWRT 17.01.4 linux kernel 4.4.92
+     - Studied the internals of linux kernel porting and development, networking in linux and Transmission client for peer-to-peer data sharing.
+  tech: "OpenWRT, Linux Kernel, Network, Wireless, FSTAB, Shell scripting"
+  
+- name: "LAN-WLAN-GSM-UMTS based Router OS"
+  github:
+   repo:  
+  url: "https://github.com/r00tb3/Multiple-Interface-based-Router-OS"
+  source_url: "https://github.com/r00tb3/Multiple-Interface-based-Router-OS"
+  description:
+      - Developed an auto switching and load balancing between LAN, WLAN, GSM, UMTS interfaces on OpenWRT. 
+      - This distro is mostly used in industrial godowns where too much connectivity issue exist.
+      - Using the auto-switching feature the router swtches between different interfaces to maintain connectivity.
+  tech: "OpenWRT, Linux Kernel, Network, Wireless, GSM, UMTS"
+  
+ - name: "Streaming media over the router using OpenWRT"
+  github:
+   repo: "" 
+  url:
+  source_url:
+  description:
+      - Developed a video and audio streaming distro to stream media over a local or remote server.
+      - Without the need to download any media one can stream over the router.
+  tech: "OpenWRT, Linux Kernel, Network, Wireless, miniDLNA"
 
 - name: "A Survey on Evolution in Information Security"
   github:
