@@ -11,7 +11,7 @@ title: Research
   <br>Below, is a list of my research.
 
   <div class="research">
-    {% for project in site.data.research %}
+    {% for research in site.data.research %}
       <div class="research">
         <div class="research-name">
           <a href = "{{ research.url }}">{{ research.name }}</a>
@@ -33,8 +33,8 @@ title: Research
           {% endfor %}
         </ul>
         <span class="research-tech">
-          {% if project.tech %}
-            <span>Technologies involved</span>: {{ project.tech }}
+          {% if research.tech %}
+            <span>Technologies involved</span>: {{ research.tech }}
           {% else %}
             <span class="research-padding">.</span>
           {% endif %}
