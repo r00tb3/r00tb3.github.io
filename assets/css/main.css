@@ -199,6 +199,84 @@ body {
   color: #508cda;
 }
 
+.research {
+  font-size: 0.9em;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+.research {
+  margin: 40px 0px;
+  padding-bottom: 20px;
+}
+
+.research-name {
+  padding: 10px;
+  font-size: 1.3em;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.research-name a {
+  color: #205caa;
+  padding-bottom: 2px;
+  border-bottom: 1px dashed #205caa;
+}
+
+.research-name a:visited {
+  color: #205caa;
+}
+
+.research-name a:hover {
+  color: #508cda;
+}
+
+.star-button {
+  float: right;
+}
+
+.research-description {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.research-description li {
+  margin-bottom: 5px;
+}
+
+.research-tech {
+  margin-left: 14px;
+}
+
+.research-tech span {
+  padding-bottom: 2px;
+  font-weight: bold;
+}
+
+.research-tech .project-padding {
+  visibility: hidden;
+}
+
+.research-source a {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 5px;
+  float: right;
+  margin-right: 2%;
+  position: relative;
+  bottom: 13px;
+  color: #205caa;
+}
+
+.research-source a:visited {
+  color: #205caa;
+}
+
+.research-source a:hover {
+  color: #508cda;
+}
+
 #contact-details {
   margin-top: 20px;
 }
