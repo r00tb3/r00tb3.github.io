@@ -1,0 +1,29 @@
+- name: "Railroad Track Maintenance Device"
+  github:
+    repo: ""
+  url: "https://doi.org/10.15866/irecap.v7i6.13605"
+  source_url: "https://doi.org/10.15866/irecap.v7i6.13605"
+  description:
+    - Developed an embedded system to detect and report the cracks present on a railway track using three different sensors with arduino board.
+    - Integrated a areon tilt sensor with sharp distance sensor and a tachometer.
+  tech: "Embedded Systems, Embedded C, Sensor's"
+  
+  - name: "A Survey on Evolution in Information Security"
+  github:
+    repo: ""
+  url: "https://doi.org/10.15866/irecap.v7i6.13347"
+  source_url: "https://doi.org/10.15866/irecap.v7i6.13347"
+  description:
+    - Surveyed the different domains in tech where security has became an important concern.
+    - Sectors like E-Banking, Internet of Things, Artificial Intelligence (AI), Cyber-Terrorism, Ransomware etc. 
+  tech: "Research, Survey, Cyber Security"
+  
+  - name: "Internet of Insecurities - IoT Threats and Mitigations" 
+  github:
+    repo: ""
+  url: "https://github.com/r00tb3/r00tb3.github.io/blob/master/_data/ACCET-Iot-Security.pdf"
+  source_url: "https://github.com/r00tb3/r00tb3.github.io/blob/master/_data/ACCET-Iot-Security.pdf"
+  description:
+    - Examined the protocols and technologies used at each layer of the IoT devices with reference to the OSI model.
+    - Studied its internals, threats it possesses and the mitigation techniques for the same.. 
+  tech: "Research, IoT, Cyber Security, IoT Security"
