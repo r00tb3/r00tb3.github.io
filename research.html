@@ -1,0 +1,51 @@
+---
+layout: default
+title: Research
+---
+
+<div id = "content">
+  <header class="post-header">
+    <h1>Research</h1>
+  </header>
+  You can check <a href = "{{ site.data.params.github_url }}">Github</a> and <a href="{{ site.data.params.linkedin_url }}">Linkedin</a> profile for all of my research work.
+  <br>Below, is a list of my research.
+
+  <div class="research">
+    {% for project in site.data.research %}
+      <div class="project">
+        <div class="project-name">
+          <a href = "{{ project.url }}">{{ project.name }}</a>
+	<!--          
+	<span class="star-button">
+            {% if project.github %}
+              {% if project.github.user %}
+                <a class="github-button" href="https://github.com/{{ project.github.user }}/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star {{ project.github.user }}/{{ project.github.repo }} on GitHub">Star</a>
+              {% else %}
+                <a class="github-button" href="https://github.com/r00tb3/{{ project.github.repo }}" data-size="large" data-show-count="true" data-icon="octicon-star" aria-label="Star r00tb3/{{ project.github.repo }} on GitHub">Star</a>
+              {% endif %}
+            {% endif %}
+          </span>
+	-->
+        </div>
+        <ul class="project-description">
+          {% for line in project.description %}
+            <li>{{ line }}</li>
+          {% endfor %}
+        </ul>
+        <span class="project-tech">
+          {% if project.tech %}
+            <span>Technologies involved</span>: {{ project.tech }}
+          {% else %}
+            <span class="project-padding">.</span>
+          {% endif %}
+       <!-- </span>
+        {% if project.source_url %}
+          <p><span class="project-source"><a href = "{{ project.source_url }}">View Source</a></span></p>
+        {% endif %}
+	-->
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
