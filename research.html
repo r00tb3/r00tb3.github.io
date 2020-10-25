@@ -12,9 +12,9 @@ title: Research
 
   <div class="research">
     {% for project in site.data.research %}
-      <div class="project">
-        <div class="project-name">
-          <a href = "{{ project.url }}">{{ project.name }}</a>
+      <div class="research">
+        <div class="research-name">
+          <a href = "{{ research.url }}">{{ research.name }}</a>
 	<!--          
 	<span class="star-button">
             {% if project.github %}
@@ -27,16 +27,16 @@ title: Research
           </span>
 	-->
         </div>
-        <ul class="project-description">
-          {% for line in project.description %}
+        <ul class="research-description">
+          {% for line in research.description %}
             <li>{{ line }}</li>
           {% endfor %}
         </ul>
-        <span class="project-tech">
+        <span class="research-tech">
           {% if project.tech %}
             <span>Technologies involved</span>: {{ project.tech }}
           {% else %}
-            <span class="project-padding">.</span>
+            <span class="research-padding">.</span>
           {% endif %}
        <!-- </span>
         {% if project.source_url %}
