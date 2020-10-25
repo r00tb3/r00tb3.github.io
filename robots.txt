@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /resume.pdf
+Disallow: /_data/
