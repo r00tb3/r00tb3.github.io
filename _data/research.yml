@@ -1,6 +1,6 @@
 - name: "Internet of Insecurities - IoT Threats and Mitigations" 
   github:
-    repo: ""
+   repo: ""
   url: "https://github.com/r00tb3/r00tb3.github.io/blob/master/_data/ACCET-Iot-Security.pdf"
   source_url: "https://github.com/r00tb3/r00tb3.github.io/blob/master/_data/ACCET-Iot-Security.pdf"
   description:
@@ -10,7 +10,7 @@
 
 - name: "A Survey on Evolution in Information Security"
   github:
-    repo: ""
+   repo: ""
   url: "https://doi.org/10.15866/irecap.v7i6.13347"
   source_url: "https://doi.org/10.15866/irecap.v7i6.13347"
   description:
@@ -20,7 +20,7 @@
 
 - name: "Railroad Track Maintenance Device"
   github:
-    repo: ""
+   repo: ""
   url: "https://doi.org/10.15866/irecap.v7i6.13605"
   source_url: "https://doi.org/10.15866/irecap.v7i6.13605"
   description:
