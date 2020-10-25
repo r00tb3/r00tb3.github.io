@@ -8,7 +8,7 @@
     - Integrated a areon tilt sensor with sharp distance sensor and a tachometer.
   tech: "Embedded Systems, Embedded C, Sensor's"
   
- - name: "A Survey on Evolution in Information Security"
+- name: "A Survey on Evolution in Information Security"
   github:
     repo: ""
   url: "https://doi.org/10.15866/irecap.v7i6.13347"
@@ -18,7 +18,7 @@
     - Sectors like E-Banking, Internet of Things, Artificial Intelligence (AI), Cyber-Terrorism, Ransomware etc. 
   tech: "Research, Survey, Cyber Security"
   
- - name: "Internet of Insecurities - IoT Threats and Mitigations" 
+- name: "Internet of Insecurities - IoT Threats and Mitigations" 
   github:
     repo: ""
   url: "https://github.com/r00tb3/r00tb3.github.io/blob/master/_data/ACCET-Iot-Security.pdf"
