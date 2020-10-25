@@ -120,8 +120,9 @@ body {
 #content p a:hover {
   color: #777;
 }
-  /* Projects Layout */
-
+  
+/* Projects Layout 
+-----------------------------------------------------*/
 .projects {
   font-size: 0.9em;
   margin-top: 40px;
@@ -199,8 +200,9 @@ body {
 .project-source a:hover {
   color: #508cda;
 }
-  /* Research Layout */
-
+  
+/* Research Layout
+------------------------------------------------*/
 .research {
   font-size: 0.9em;
   margin-top: 40px;
@@ -256,7 +258,7 @@ body {
   font-weight: bold;
 }
 
-.research-tech .project-padding {
+.research-tech .research-padding {
   visibility: hidden;
 }
 
@@ -278,6 +280,9 @@ body {
 .research-source a:hover {
   color: #508cda;
 }
+
+/* Contact Layout
+------------------------------------------------*/
 
 #contact-details {
   margin-top: 20px;
