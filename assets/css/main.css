@@ -120,6 +120,7 @@ body {
 #content p a:hover {
   color: #777;
 }
+  /* Projects Layout */
 
 .projects {
   font-size: 0.9em;
@@ -198,6 +199,7 @@ body {
 .project-source a:hover {
   color: #508cda;
 }
+  /* Research Layout */
 
 .research {
   font-size: 0.9em;
